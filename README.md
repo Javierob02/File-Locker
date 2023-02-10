@@ -27,3 +27,5 @@ Main Tabs
 1. Firebase Firestore
 
 2. Firebase Storage
+
+Use own 'GoogleService-Service.plist' for implementation
