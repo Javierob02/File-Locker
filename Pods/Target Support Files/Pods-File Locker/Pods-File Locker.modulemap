@@ -1,0 +1,6 @@
+framework module Pods_File_Locker {
+  umbrella header "Pods-File Locker-umbrella.h"
+
+  export *
+  module * { export * }
+}
